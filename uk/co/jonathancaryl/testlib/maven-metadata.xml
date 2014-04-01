@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>uk.co.jonathancaryl</groupId>
+  <artifactId>testlib</artifactId>
+  <version>0.1.2</version>
+  <versioning>
+    <versions>
+      <version>0.1.2</version>
+    </versions>
+    <lastUpdated>20140401152413</lastUpdated>
+  </versioning>
+</metadata>
